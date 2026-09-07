@@ -71,3 +71,8 @@ MIT for this teaser repository. The full paid pack will ship under buyer license
 ## Brand
 
 Public brand: **Indie Agent Ship Kit** / **indieagentkit**.
+
+## Need it done for you?
+
+Fixed-price micro-help (landing pages, launch packs, skill packs): https://boltdoesthis.github.io/indie-agent-services/
+Email: boltdoesthis@gmail.com
